@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
